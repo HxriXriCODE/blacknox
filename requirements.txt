@@ -1,0 +1,5 @@
+transformers
+torch
+SpeechRecognition
+pyaudio
+pyttsx3
